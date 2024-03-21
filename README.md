@@ -1,6 +1,6 @@
 # US Politics: A Data-Driven Analysis of Sentiment and Demography
 
-This repository contains the research project "Navigating the Currents: Demographics, Sentiment, and Media Influence in American Political Waters", which examines the intricate relationships between public sentiment on national events, demographic factors, and media influence within the context of the United States political scene from 2016 to 2020.
+This repository contains the STA220 course project "Navigating the Currents: Demographics, Sentiment, and Media Influence in American Political Waters", which examines the intricate relationships between public sentiment on national events, demographic factors, and media influence within the context of the United States political scene from 2016 to 2020.
 
 ## Project Structure
 
@@ -35,5 +35,26 @@ Two interactive Dash applications provide visual insights:
 ## Usage
 
 To explore the data and analysis, navigate to the respective directories. For a deep dive into the visualizations, run the Dash applications locally by executing the following command in each app's directory:
+
+> python app.py
+
+or you can directly access these apps on [Dash_App_1](https://data-and-web-technologies-for-data.onrender.com/) and [Dash_App_2](https://data-and-web-technologies-for-data-1cu1.onrender.com/) 
+
+## Contributions
+
+This project is the culmination of collaborative efforts. Contributions to further expand on this research are welcome. Please submit a pull request or open an issue to discuss potential changes or additions.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to all the data providers, including the U.S. Census Bureau and allsides.com, for making their data accessible for academic and research purposes.
+
+---
+
+For more information on the project's methodology, findings, and implications, please refer to the comprehensive report included in this repository.
+
 
 
