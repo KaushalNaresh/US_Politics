@@ -41,7 +41,7 @@ To explore the data and analysis, navigate to the respective directories. For a 
 
 > python app.py
 
-or you can directly access these apps on [Dash_App_1](https://data-and-web-technologies-for-data.onrender.com/) and [Dash_App_2](https://data-and-web-technologies-for-data-1cu1.onrender.com/) 
+or you can directly access these apps on [Dash_App_1](https://data-and-web-technologies-for-data.onrender.com/) and [Dash_App_2](https://data-and-web-technologies-for-data-1cu1.onrender.com/). These dash apps sometimes take 50 sec to load because of unpaid version of hosting site.
 
 ## Contributions
 
