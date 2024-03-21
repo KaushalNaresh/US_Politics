@@ -16,6 +16,9 @@ The `Data` folder comprises several CSV files that form the backbone of our anal
 - `demographics.csv`: Demographic data acquired from the U.S. Census Bureau.
 - `sentiment_scores.csv`: Sentiment scores derived from Reddit comments on key national topics.
 - `media_bias.csv`: Data reflecting media bias and sentiment on current events.
+- `isreal_hamas_war_article_data.csv`: News article data for the Israel-Hamas war from allsides.com.
+- `ukraine_war_article_data`: News article data for the Ukraine-Russia war from allsides.com.
+- `allsides_bias_data`: Data reflecting news sources and their bias rating from allsides.com.
 
 ## Analysis
 
