@@ -44,10 +44,6 @@ or you can directly access these apps on [Dash_App_1](https://data-and-web-techn
 
 This project is the culmination of collaborative efforts. Contributions to further expand on this research are welcome. Please submit a pull request or open an issue to discuss potential changes or additions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to all the data providers, including the U.S. Census Bureau and allsides.com, for making their data accessible for academic and research purposes.
