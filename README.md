@@ -1,4 +1,4 @@
-# US Politics: A Data-Driven Analysis of Sentiment and Demography
+# US Politics: A Data-Driven Analysis of Sentiment, Demography and Media in US poltics
 
 This repository contains the STA220 course project "Navigating the Currents: Demographics, Sentiment, and Media Influence in American Political Waters", which examines the intricate relationships between public sentiment on national events, demographic factors, and media influence within the context of the United States political scene from 2016 to 2020.
 
