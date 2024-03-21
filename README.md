@@ -45,7 +45,7 @@ or you can directly access these apps on [Dash_App_1](https://data-and-web-techn
 
 ## Contributions
 
-This project is the culmination of collaborative efforts. Contributions to further expand on this research are welcome. Please submit a pull request or open an issue to discuss potential changes or additions.
+This project is the culmination of the collaborative efforts of Naresh Kumar Kaushal and Rutuja Abhijit Kale. Contributions to further expand on this research are welcome. Please submit a pull request or open an issue to discuss potential changes or additions.
 
 ## Acknowledgments
 
